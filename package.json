@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:testi_backend": "cd Fullstackopen_3/testi_backend && npm start",
-    "dev:testi_backend": "cd Fullstackopen_3/testi_backend && npm run dev",
-    "dev:testi_frontend": "cd Fullstackopen_3/testi_frontend && npm run dev"
+    "dev:testi_backend": "cd testi_backend && npm run dev",
+    "dev:testi_frontend": "cd testi_frontend && npm run dev"
   },
   "repository": {
     "type": "git",
